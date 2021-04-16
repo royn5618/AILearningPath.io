@@ -48,13 +48,26 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 [Leetcode](https://leetcode.com/)
 
+[HackerRank](https://www.hackerrank.com/)
+
+## Machine Learning
+
+[Machine Learning Mastery](https://machinelearningmastery.com/)
+
+[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+[Best Machine Learning Blogs to Follow in 2021](https://pub.towardsai.net/best-machine-learning-blogs-to-follow-ml-research-ai-3994e01967f9?sk=3a24e54c52bb338ed29a2dd5e4fa96b7&gi=d74e1610fda4)
+
+[Google Developer Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 ## Deep Learning
 [Deep Learning](https://www.fast.ai/)
 
 [Python Chatbot Project Tutorial Series-Chatbot with Deep Learning](https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndH9FoC4YWHGXG5RZekt-Q)
 
+[Machine Learning Mastery](https://machinelearningmastery.com/)
 
+[Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 
 ## Further Studying
 **A frequent question that comes up is "Which should I pick- Python or R?"**
@@ -66,5 +79,3 @@ The following two articles present perspectives on the strengths of each of thes
 [Python or R for data science](https://medium.com/@data_driven/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197)
 
 **[Sign up to learn as part of a peer group, for ongoing mentorship and to participate in ongoing learning projects](https://lnkd.in/gitQ_Hv)**
-
-
